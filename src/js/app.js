@@ -1,3 +1,4 @@
 import Test from './test.js';
 
-Test.sayHello();
+const app = window.document.getElementById('app');
+app.innerText += Test.sayHello();

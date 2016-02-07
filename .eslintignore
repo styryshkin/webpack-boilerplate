@@ -3,3 +3,4 @@ build
 
 # Ignore config stuff
 *config.js
+server.js
